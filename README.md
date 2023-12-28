@@ -91,4 +91,4 @@ Run the local dev server by running the following command:
 npm start
 ```
 
-You’ll see a DHTMLX Calendar with ten events. The calendar will have full CRUD functionality.
+You’ll see a DHTMLX Calendar with ten non-recurring events and one recurring event. The calendar will have full CRUD functionality.
